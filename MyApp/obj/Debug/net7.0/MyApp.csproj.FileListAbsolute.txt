@@ -1,0 +1,15 @@
+/Users/graceevans/git/grace_evans/MyApp/bin/Debug/net7.0/MyApp
+/Users/graceevans/git/grace_evans/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/graceevans/git/grace_evans/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/graceevans/git/grace_evans/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/graceevans/git/grace_evans/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/graceevans/git/grace_evans/MyApp/obj/Debug/net7.0/ref/MyApp.dll
